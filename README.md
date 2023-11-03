@@ -8,6 +8,10 @@
 
 **EXECUTION CONTEXT**: O gerenciamento do contexto de execução do código que está rodando.
 
+**SCOPE**: Onde a variável está disponível, e se é a mesma variável ou uma cópia.
+
+**ASYNCHRONOUS**: Mais de um ao mesmo tempo.
+
 ## O JAVASCRIPT É
 
 **SINGLE THREADED**: Processa um único conjunto de instruções de cada vez, de forma sequencial.
