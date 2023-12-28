@@ -35,10 +35,9 @@
 
 **OPERATOR PRECEDENCE & ASSOCIATIVITY**: ver tabela de precedência e associação [aqui](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence).
 
-
 ## FUNÇÕES SÃO OBJETOS
 
 **FIRST CLASS FUNCTIONS**: tudo que pode ser feito com tipos primitivos é possível fazer com funções. Atribuí-las a variáveis, passá-las como parâmetros e criá-las quando quiser.
 
-**EXPRESSION**: um código que resulta num valor. 
+**EXPRESSION**: um código que resulta num valor.
 **STATEMENT**: um código que executa um trabalho.
