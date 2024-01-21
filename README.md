@@ -1,5 +1,8 @@
 # ANOTAÇÕES GERAIS
 
+Para executar: copiar o app.js correspondente ao conceito que deseja entender, e depois
+executar a aplicação com o Go Live do VSCode.
+
 ## CONCEITOS IMPORTANTES
 
 **SINTAX PARSERS**: Programas que lêem o código e determinam o que faz, e se sua sintaxe é válida. O código é traduzido para algo que o computador possa entender.
